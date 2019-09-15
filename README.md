@@ -17,16 +17,16 @@ The file that contains the logic for the game, which requires the Word construct
 ### Screenshots
 
 * The game loads, and the user is prompted to guess a letter:
-![](images/screenshot18.png)
+![](images/Screenshot18.png)
 
 * The letter which the user guesses is checked and deemed to be either correct or incorrect:
-![](images/screenshot19.png)
+![](images/Screenshot19.png)
 
 * If the user fails to guess the word and uses 10 incorrect letters, the game ends and the user is prompted again:
-![](images/screenshot20.png)
+![](images/Screenshot20.png)
 
 * If the user successfully guesses the word, the game ends and the user is prompted again:
-![](images/screenshot21.png)
+![](images/Screenshot21.png)
 
 * If the user selects 'Exit', the game ends and the user returns to the console.
-![](images/screenshot22.png)
+![](images/Screenshot22.png)
